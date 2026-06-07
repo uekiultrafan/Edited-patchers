@@ -1,0 +1,14 @@
+{
+  "Nickname": "SorcererPatcher",
+  "Visibility": "Visible",
+  "OneLineDescription": "Synthesis patcher for Sorcerer - A Staff and Scroll Overhaul",
+  "LongDescription": "",
+  "PreferredAutoVersioning": "Default",
+  "RequiredMods": [],
+  "TargetedReleases": [
+    "SkyrimLE",
+    "SkyrimSE",
+    "SkyrimVR",
+    "SkyrimSEGog"
+  ]
+}
